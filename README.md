@@ -7,6 +7,10 @@ time to perform specific betting options.  The graphical layout of the game is
 geared toward a multipanled screen with a "flat" 3D perspecitve in the main
 panel.
 
+<br>
+![mainpages](https://66.media.tumblr.com/3f40681dbce2201dc1dc596c9a6fac11/tumblr_of2oncVDfQ1r438poo1_1280.png)
+<br>
+
 -------
 Authors
 -------
